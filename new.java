@@ -1,0 +1,9 @@
+import java.util.Date;
+import java.sql.*;
+public class test
+{
+	public static void main(String[] args)
+	{
+		Date d = new Date();
+	}
+}
